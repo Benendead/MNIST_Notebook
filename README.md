@@ -1,4 +1,4 @@
-# MNIST_Notebook
+# MNIST_Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WKCNAtIpJ_0Cmyhn-jAFS9KSCcDUX5H1#scrollTo=kLLfMFZE8aP8&uniqifier=1)
 ## Summary
 This was my Keras implemention of a CNN which classifies the MNIST dataset. I also submitted this code to the related Kaggle 
 competition. The Jupyter Notebook includes my sources as well as extensive comments/documentation in order to explain what 
